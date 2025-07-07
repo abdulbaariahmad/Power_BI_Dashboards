@@ -51,8 +51,7 @@ uncommon chart types to best tell the data story.
 
    ### Page 2: Job Title Drill Through
 
-   ![Dashboard Page 2](/images/Project1_Page2.png)
-
+   ![Dashboard Page 2](/Images/Project1_Page2.png)
    This is the deep-dive page. From the main dashboard, you
    can drill through to this view to get specific details
    for a single job title, including salary ranges,
